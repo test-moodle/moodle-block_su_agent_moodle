@@ -1,4 +1,4 @@
-![Agent Moodle](https://raw.githubusercontent.com/dev-capsule/assetAgentMoodle/main/pix/icon.png)
+![Agent Moodle](https://raw.githubusercontent.com/dev-capsule/assetAgentMoodle/ea41e8f78366fa16a95b7bd7235ecef4701f4875/icon.png)
 
 # Moodle Agent
 
